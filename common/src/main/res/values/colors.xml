@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="province_line_border">#C7C7C7</color><!--citypicker wheel-->
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="bg_gray">#F5F5F5</color>
+    <color name="black">#FF000000</color>
+
+    <color name="colorPrimary">#FA7C20</color>
+    <color name="colorPrimaryDark">#FA7C20</color>
+    <!--白天主题-->
+    <color name="day_backgroup_color">#FFFFFFFF</color>
+    <color name="day_one_text_color">#FF000000</color>
+    <color name="day_two_text_color">#c9000000</color>
+    <color name="day_three_text_color">#8A9599</color>
+    <!--夜间主题-->
+    <color name="night_backgroup_color">#3F3F3F</color>
+    <color name="night_one_text_color">#FFbbbbbb</color>
+    <color name="night_two_text_color">#8A9599</color>
+    <color name="night_there_text_color">#8A9599</color>
+    <!-- app主色调-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FFF0F0F0</color>
+    <color name="transparent">#00000000</color>
+
+    <!--basedialog -->
+    <color name="black_overlay">#60000000</color>
+    <!--basedialog -->
+
+
+    <color name="font_blue">#4295d7</color>
+    <color name="font_deep_gray">#666666</color>
+
+    <color name="pc_black_t_pic">#22000000</color>
+
+    <color name="main_color_top">#f08300</color>
+    <color name="ic_color">#444444</color>
+    <!--标题文字-->
+    <color name="title_color">#333333</color>
+    <!--正文文字-->
+    <color name="text_color">#666666</color>
+    <color name="futext_color">#999999</color>
+    <color name="cut_off_color">#eeeeee</color>
+    <color name="back_color">#f8f8f8</color>
+
+    <color name="button_black_color">#444444</color>
+
+
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!--字体大小-->
+    <dimen name="textTopSize">18dp</dimen>
+    <dimen name="textTopTowSize">15dp</dimen>
+    <dimen name="textButtonSize">15dp</dimen>
+    <dimen name="textTitleSize">14dp</dimen>
+    <dimen name="textTitleTowSize">13dp</dimen>
+    <dimen name="textMainBSize">12dp</dimen>
+    <dimen name="textBottomSize">10dp</dimen>
+    <!--标准色-->
+    <color name="colorCutOff">#d7d7d7</color>
+    <color name="title_bg">#2a293b</color>
+    <color name="colorMainImportance">#1abab0</color>
+    <color name="colorTitleText">#222222</color>
+    <!--一般正文文字的颜色-->
+    <color name="colorMainBText">#666666</color>
+    <color name="colorAssistText">#999999</color>
+
+    <!--模块背景色，底部状态栏背景色-->
+    <color name="colorModuleBg">#f3f5f7</color>
+
+    <!--特殊的文字例如药品名字-->
+    <color name="colorSpecialText">#e4393c</color>
+    <color name="colorSpecialBg">#d7edec</color>
+</resources>
